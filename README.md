@@ -1,12 +1,12 @@
-\# Policy Document Navigator 🇮🇳
+## Policy Document Navigator 🇮🇳
 A government policy analysis tool designed to help citizens, students, and researchers understand long and complex policy documents using AI-inspired techniques.
 
 
-\## Problem
+## Problem
 Government policies are often 50–200+ pages long, written in complex legal language, making them inaccessible to the public.
 
 
-\## Solution
+## Solution
 
 This project ingests large Government of India policy PDFs and:
 \- Extracts and processes policy text
@@ -15,7 +15,7 @@ This project ingests large Government of India policy PDFs and:
 \- Analyzes stakeholder impact across multiple policies
 
 
-\## Features
+## Features
 
 \- Policy PDF ingestion (60–120 pages tested)
 \- ScaleDown summaries (plain language)
@@ -32,7 +32,7 @@ This project ingests large Government of India policy PDFs and:
 - Full RAG and live API deployment were kept out of scope due to time constraints.
 
   
-\## Tech Stack
+## Tech Stack
 
 \- Python
 \- PyPDF2
@@ -60,6 +60,7 @@ AI tools were used for guidance and conceptual understanding. All policy selecti
 \## Author
 
 Sonali Maity
+
 
 
 
