@@ -121,6 +121,15 @@ This improves usability compared to manually searching through long policy docum
 
 ---
 
+## ⭐ Creative Feature
+
+### 📊 Answer Confidence Scoring
+
+The system calculates a relevance score based on keyword matching and displays a confidence percentage for each response.
+
+This provides users with transparency on how strongly the retrieved sentences match the query.
+
+
 ## 🔮 Future Improvements
 
 - Semantic Search using Embeddings
@@ -153,3 +162,4 @@ The AI was used as a productivity and learning accelerator throughout the develo
 
 **Sonali Maity**  
 Built for the Gen AI Challenge 🚀
+
