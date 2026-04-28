@@ -163,3 +163,18 @@ The AI was used as a productivity and learning accelerator throughout the develo
 **Sonali Maity**  
 Built for the Gen AI Challenge 🚀
 
+location / {
+
+proxy_pass http://localhost:4000;
+
+proxy_http_version 1.1;
+
+proxy_set_header Upgrade $http_upgrade;
+
+proxy_set_header Connection 'Upgrade';
+
+proxy_set_header Host $host;
+
+proxy_cache_bypass $http_upgrade;
+
+}
